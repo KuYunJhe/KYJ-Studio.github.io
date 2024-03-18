@@ -315,8 +315,8 @@ p {
     font-size: 90%;
 }
 
-header+div{
-     margin: 8em auto auto 0;
+header+div {
+    margin: 8em auto auto 0;
 }
 
 
@@ -367,7 +367,6 @@ h1 {
     h1 {
         font-size: 3.75rem;
     }
-
 }
 
 sub {
@@ -3079,7 +3078,7 @@ ul.feature-icons li:nth-child(2) {
 }
 
 
-div>a{
+div>a {
     border-bottom: none;
 }
 
